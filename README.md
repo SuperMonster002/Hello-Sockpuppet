@@ -3,8 +3,8 @@
 You know who i am, don't you? :smirk:  
 
 
-####Auto.js bug versions: 
-######As of Apr 26, 2019
+#### Auto.js bug versions:   
+###### As of Apr 26, 2019
 
 3.0.0 Alpha:  
 * 不支持cwd()方法及相对路径  
