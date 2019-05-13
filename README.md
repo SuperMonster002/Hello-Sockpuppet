@@ -503,6 +503,27 @@ You know who i am, don't you? :smirk:
   
 4.0.4 Alpha4:  
 * UiSelector.find().forEach()方法功能异常  
+
+4.0.4 Alpha5:  
+* 缺少"查看使用统计权限"功能  
+
+4.0.4 Alpha6:  
+* 缺少"查看使用统计权限"功能  
+
+4.0.4 Alpha7:  
+* 缺少"查看使用统计权限"功能  
+
+4.0.4 Alpha8:  
+* 缺少"查看使用统计权限"功能  
+
+4.0.4 Alpha9:  
+* 缺少"查看使用统计权限"功能  
+
+4.0.4 Alpha10:  
+* 缺少"查看使用统计权限"功能  
+
+4.0.4 Alpha11:  
+* 缺少"查看使用统计权限"功能  
   
 4.0.4 Alpha12:  
 * 不支持Engines模块的execArgv对象  
