@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db4f7d4f-45cc-4c61-9640-4e8cbc4f440e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>floaty.rawWindow()功能异常</find>
+      <find>floaty.rawWindow()功能异常</find>
+      <find>console.setGlobalLogConfig()功能异常</find>
+      <find>console.setGlobalLogConfig()功能异常</find>
+      <find>setGlobalLogConfig</find>
+      <find>engines.setArguments</find>
+      <find>此版本可能未包含所需全部功能</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Hello_Sockpuppet.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WfA48276aTG9DqhhBJbUE3smiC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db4f7d4f-45cc-4c61-9640-4e8cbc4f440e" name="Default Changelist" comment="" />
+      <created>1556283586820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556283586820</updated>
+      <workItem from="1556283588229" duration="6314000" />
+      <workItem from="1557817993030" duration="326000" />
+      <workItem from="1559267055850" duration="1096000" />
+      <workItem from="1559983800712" duration="10292000" />
+      <workItem from="1563703594665" duration="22000" />
+      <workItem from="1563703624636" duration="1000" />
+      <workItem from="1563703638285" duration="425000" />
+      <workItem from="1563704081509" duration="231000" />
+      <workItem from="1563713021708" duration="1936000" />
+      <workItem from="1579530082928" duration="828000" />
+      <workItem from="1579558659398" duration="2085000" />
+      <workItem from="1585904293445" duration="605000" />
+      <workItem from="1605664573933" duration="1177000" />
+    </task>
+    <task id="LOCAL-00001" summary="^_^">
+      <created>1556284226547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556284226547</updated>
+    </task>
+    <task id="LOCAL-00002" summary="^_^">
+      <created>1556285758148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556285758148</updated>
+    </task>
+    <task id="LOCAL-00003" summary="^_^">
+      <created>1556290411599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556290411599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="^_^">
+      <created>1556291266650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556291266650</updated>
+    </task>
+    <task id="LOCAL-00005" summary="^_^">
+      <created>1557818019798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557818019798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="^_^">
+      <created>1559267451349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559267451349</updated>
+    </task>
+    <task id="LOCAL-00007" summary="^_^">
+      <created>1563713935189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563713935189</updated>
+    </task>
+    <task id="LOCAL-00008" summary="^_^">
+      <created>1563714973377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563714973377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="^_^">
+      <created>1579558742266</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579558742266</updated>
+    </task>
+    <task id="LOCAL-00010" summary="^_^">
+      <created>1579559178421</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579559178421</updated>
+    </task>
+    <task id="LOCAL-00011" summary="^_^">
+      <created>1579559192882</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579559192882</updated>
+    </task>
+    <task id="LOCAL-00012" summary="^_^">
+      <created>1579559203852</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579559203852</updated>
+    </task>
+    <task id="LOCAL-00013" summary="^_^">
+      <created>1585904459607</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585904459607</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="^_^" />
+    <option name="LAST_COMMIT_MESSAGE" value="^_^" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="81" key="SettingsEditor" timestamp="1605665143881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1605665143881" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
