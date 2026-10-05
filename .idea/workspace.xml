@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db4f7d4f-45cc-4c61-9640-4e8cbc4f440e" name="Default Changelist" comment="" />
+    <list default="true" id="db4f7d4f-45cc-4c61-9640-4e8cbc4f440e" name="Default Changelist" comment="Delete auto.js 4.1.1_alpha2 APK file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,10 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -42,7 +49,6 @@
     </option>
   </component>
   <component name="ProjectId" id="1WfA48276aTG9DqhhBJbUE3smiC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -175,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1585904459607</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Delete auto.js 4.1.1_alpha2 APK file">
+      <option name="closed" value="true" />
+      <created>1791211581880</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791211581880</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +201,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="^_^" />
-    <option name="LAST_COMMIT_MESSAGE" value="^_^" />
+    <MESSAGE value="Delete auto.js 4.1.1_alpha2 APK file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete auto.js 4.1.1_alpha2 APK file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="186" y="81" key="SettingsEditor" timestamp="1605665143881">
